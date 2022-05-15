@@ -1,0 +1,19 @@
+{
+  "name": "twitter",
+  "version": "1.0.0",
+  "description": "Twitter proyect for Launch X",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Dvashe/Proyecto-3.js.git"
+  },
+  "author": "Dvashe",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Dvashe/Proyecto-3.js/issues"
+  },
+  "homepage": "https://github.com/Dvashe/Proyecto-3.js#readme"
+}
